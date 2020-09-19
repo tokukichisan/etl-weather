@@ -5,7 +5,7 @@
 TODO: paste link
 
 ## 概要
-![overview]](https://github.com/luckyriver0/etl-weather/blob/master/images/overview.png)
+![overview](https://github.com/luckyriver0/etl-weather/blob/master/images/overview.png)
 
 ## データソース
 気象庁<br>
