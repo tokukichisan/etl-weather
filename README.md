@@ -2,7 +2,7 @@
 気象庁から気象データCSVをダウンロードします
 
 コードは以下noteの有料部分にダウンロードリンクを公開させていただいております。
-TODO: paste link
+https://note.com/springmouth/n/nad8332413094
 
 ## 概要
 ![overview](https://github.com/luckyriver0/etl-weather/blob/master/images/overview.png)
